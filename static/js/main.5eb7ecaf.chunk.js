@@ -1,2 +1,0 @@
-(this["webpackJsonpreact_tabs-with-router"]=this["webpackJsonpreact_tabs-with-router"]||[]).push([[0],{3:function(t,e,n){t.exports=n(9)},8:function(t,e,n){},9:function(t,e,n){"use strict";n.r(e);var r=n(0),a=n.n(r),c=n(2),o=n.n(c),s=(n(8),function(){return a.a.createElement("div",{className:"App"},a.a.createElement("h1",null,"Tabs with router"))});o.a.render(a.a.createElement(s,null),document.getElementById("root"))}},[[3,1,2]]]);
-//# sourceMappingURL=main.5eb7ecaf.chunk.js.map
